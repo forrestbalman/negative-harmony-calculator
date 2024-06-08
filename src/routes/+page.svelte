@@ -110,7 +110,7 @@
 <style>
     .bg {
         background: linear-gradient(270deg, #110d21, #1b003b, #1e1c1f);
-        background-size: 600% 600%;
+        background-size: 600% 601%;
         -webkit-animation: gradient 14s ease infinite;
         -moz-animation: gradient 14s ease infinite;
         -o-animation: gradient 14s ease infinite;
